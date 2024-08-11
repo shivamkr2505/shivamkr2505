@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A FULL STACK WEB DEVELOPER.</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1723248000&semt=ais_hybrid">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamkr2505&label=Profile%20views&color=0e75b6&style=flat" alt="shivamkr2505" /> </p>
